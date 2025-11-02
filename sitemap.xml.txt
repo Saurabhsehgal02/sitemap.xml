@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url><loc>https://hustlesmart.super.site/</loc></url>
+
+  <url><loc>https://hustlesmart.super.site/about-me</loc></url>
+
+  <url><loc>https://hustlesmart.super.site/ai-tools-for-students</loc></url>
+
+  <url><loc>https://hustlesmart.super.site/community</loc></url>
+
+  <url><loc>https://hustlesmart.super.site/digital-products-for-students</loc></url>
+
+  <url><loc>https://hustlesmart.super.site/join-hustle-smart-weekly</loc></url>
+
+  <url><loc>https://hustlesmart.super.site/my-recommended-tools-for-students</loc></url>
+
+  <url><loc>https://hustlesmart.super.site/productivity-templates</loc></url>
+
+  <url><loc>https://hustlesmart.super.site/student-side-hustles</loc></url>
+
+</urlset>
